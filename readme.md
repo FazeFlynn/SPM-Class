@@ -272,6 +272,73 @@ Here are the topics that were missed from the original notes:
 
 ---
 
+# Lecture 23
+
+Here are the structured and concise notes for **Unit-4, Lecture 23** on **Software Configuration and Project Management**:
+
+---
+
+## **1. Software Configuration Management (SCM)**
+- **Definition**: SCM is the discipline of managing and controlling changes in software systems. It ensures that all changes are documented and tracked, providing a stable, controlled environment for software development and maintenance.
+  
+### **Key Concepts of SCM**
+1. **Configuration Items (CI)**: These include software code, documentation, and any other artifacts that need to be managed.
+2. **Version Control**: Tracks and manages changes to the configuration items over time.
+3. **Baseline Management**: Establishes stable versions (baselines) of software systems at key stages (e.g., before a release).
+4. **Change Control**: Controls how changes are introduced, ensuring they are assessed and documented before being implemented.
+  
+### **Processes in SCM**
+1. **Identification**: Identifying configuration items and organizing them for management.
+2. **Change Control**: Evaluating and approving changes before they are made to the system.
+3. **Version Control**: Managing and storing versions of configuration items to allow rollback if necessary.
+4. **Audit and Review**: Regularly reviewing changes to ensure compliance with project goals and standards.
+
+---
+
+## **2. Version Control**
+- **Definition**: A version control system (VCS) tracks changes to files and directories, allowing teams to collaborate on a project while maintaining a history of revisions.
+
+### **Key Concepts**
+1. **Repository**: A collection of files and their history of revisions.
+2. **Commit**: A snapshot of changes made to files at a specific point in time.
+3. **Branching**: Creating independent lines of development to allow for parallel work without affecting the main codebase.
+4. **Merging**: Integrating changes from one branch into another, often used to combine feature developments back into the main codebase.
+5. **Conflict**: Occurs when changes made in different branches conflict, requiring resolution.
+
+### **Types of Version Control Systems**
+1. **Centralized Version Control Systems (CVCS)**: All files and histories are stored in a central repository (e.g., SVN).
+2. **Distributed Version Control Systems (DVCS)**: Each developer has a local copy of the entire repository, allowing for greater flexibility and offline work (e.g., Git).
+
+<img src="./images/23-Dvcs.png" style="width:100%;border-radius:25px;" />
+
+
+---
+
+## **3. Project Management in Software Development**
+- **Definition**: Project management involves planning, executing, and controlling software projects, ensuring they meet the specified requirements while staying within budget and time constraints.
+
+### **Key Aspects of Software Project Management**
+1. **Planning**: Defines the project's objectives, scope, timeline, and resources required.
+2. **Execution**: Ensures that the project is carried out as planned, with resources allocated efficiently and tasks completed on time.
+3. **Monitoring and Control**: Tracks project progress, identifies potential issues, and implements corrective actions as needed.
+4. **Termination**: Finalizing the project by ensuring all objectives are met, documenting results, and closing out any outstanding issues.
+
+### **Types of Management in SPM**
+1. **Conflict Management**: Handling disputes or disagreements within the project team to improve collaboration.
+2. **Risk Management**: Identifying potential risks and implementing strategies to mitigate them.
+3. **Requirement Management**: Analyzing, prioritizing, and documenting project requirements while managing changes.
+4. **Change Management**: Managing changes to the project scope, goals, and processes in a controlled manner.
+
+---
+
+## **4. Project Planning and Execution**
+- **Feasibility Study**: Determines if the project can be implemented based on technical, operational, and economic feasibility.
+- **Scope Definition**: Defines what will and will not be included in the project to avoid scope creep.
+- **Estimation Techniques**: Methods for predicting the time, resources, and cost needed for the project. Common techniques include expert judgment, analogous estimation, and bottom-up estimation.
+
+---
+
+
 
 # Lecture 24
 
