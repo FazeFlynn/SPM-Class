@@ -2,6 +2,8 @@
 
 # 2nd Insem
 
+### It does not contain everything, Most of the Topics were filtered out.
+
 # Lecture 22
 
 ## **1. Software Maintenance**
