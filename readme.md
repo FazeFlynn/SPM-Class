@@ -1,17 +1,14 @@
 # SPM Notes
 
-
-
 # 2nd Insem
 
-
-Here’s the revised version with expanded explanations:
-
----
+# Lecture 22
 
 ## **1. Software Maintenance**
 
 **Software maintenance** refers to the activities involved in modifying and updating software after its initial release. This ensures the software remains functional, up-to-date, and efficient throughout its lifecycle.
+
+<img src="./images/22-typesOfSoftwareMaintainance.png" style="width:350px" />
 
 ### **Types of Software Maintenance**
 1. **Corrective Maintenance**: This involves fixing defects or bugs found in the software after deployment. It aims to restore the system to its desired functionality by eliminating issues that may affect its performance or cause unexpected behavior.
@@ -287,7 +284,8 @@ Here are the concise and structured notes for **Unit-4, Lecture 24** on **Softwa
   - A condition or capability required to satisfy a contract, standard, or specification.  
   - A documented representation of such conditions or capabilities.
 
----
+<img src="./images/24-TypesOfSoftwareRequierments.png" style="width:350px" />
+
 
 ## **2. Types of Software Requirements**
 1. **Functional Requirements**:  
@@ -337,6 +335,8 @@ Here are the concise and structured notes for **Unit-4, Lecture 24** on **Softwa
 - Acts as a reference for developers, testers, and stakeholders.  
 - Serves as a contract between developers and customers.  
 - Facilitates better planning, resource allocation, and risk management.
+
+<img src="./images/24-ellicitationTechniques.png" style="width:350px" />
 
 ---
 
@@ -460,10 +460,14 @@ High-level templates that guide system design by providing solutions to common c
    - **Pros**: Simple to develop and deploy.  
    - **Cons**: Hard to maintain and scale as the application grows.
 
+   <img src="./images/26-MonolithicArchitecture.png" style="width:350px" />
+
 2. **Microservices Architecture**:  
    - System divided into small, independent services communicating via APIs.  
    - **Pros**: Scalability, flexibility, and fault isolation.  
    - **Cons**: Increased deployment and management complexity.
+
+   <img src="./images/26-MicroserviceArchitecture.png" style="width:350px" />
 
 3. **Layered Architecture**:  
    - Organized into layers (e.g., presentation, business logic, data storage).  
@@ -474,6 +478,8 @@ High-level templates that guide system design by providing solutions to common c
    - Components communicate asynchronously through events.  
    - **Pros**: Loose coupling, real-time responsiveness.  
    - **Cons**: Complex debugging and event proliferation.
+
+   <img src="./images/26-EventDrivenArchitecture.png" style="width:350px" />
 
 5. **Client-Server Architecture**:  
    - Division of responsibilities between a client and server.  
@@ -512,7 +518,9 @@ Here are the structured and concise notes for **Unit-4, Lecture 27** on **Softwa
 
 ## **1. Software Architecture**
 - **Definition**: Software architecture refers to the high-level design of a system, detailing its structure, components, and interactions. It serves as a blueprint for guiding development.  
-- **Key Factors**: Includes considerations like business strategy, quality attributes, human dynamics, design principles, and the IT environment.  
+- **Key Factors**: Includes considerations like business strategy, quality attributes, human dynamics, design principles, and the IT environment. 
+
+<img src="./images/27-SoftwareArchitecture.png" style="width:350px" />
 
 ### **Importance**
 1. **Structural Integrity**: Ensures components integrate seamlessly.  
@@ -751,6 +759,9 @@ Here are the structured and concise notes for **Unit-3, Lecture 16** on **Test-D
 - **Definition**: TDD is a software development methodology where tests are written before the actual implementation of the code.  
 - **Key Principle**: Follows an iterative cycle of *Red-Green-Refactor* to ensure functionality, quality, and maintainability.
 
+
+<img src="./images/16-TDD.png" style="width:350px" />
+
 ---
 
 ## **2. The TDD Cycle**
@@ -830,6 +841,9 @@ Here are the structured and concise notes for **Unit-3, Lecture 17** on **Softwa
 ## **2. SDLC Models**
 ### **Waterfall Model**
 - **Description**: A traditional, linear, and sequential approach to software development. Each phase is completed before moving to the next.
+
+<img src="./images/17-WaterFall.png" style="width:350px" />
+
   
   **Phases**:
   1. **Requirements Gathering and Analysis**: Collect and document all requirements.
@@ -850,6 +864,9 @@ Here are the structured and concise notes for **Unit-3, Lecture 17** on **Softwa
 
 ### **Agile Model**
 - **Description**: An iterative and incremental approach emphasizing flexibility, collaboration, and customer feedback. Agile focuses on delivering functional software in small increments rather than waiting for the final product.
+
+<img src="./images/17-Agile.png" style="width:350px" />
+
 
   **Principles**:
   1. Customer satisfaction through continuous delivery of valuable software.
