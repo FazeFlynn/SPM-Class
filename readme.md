@@ -13,6 +13,7 @@
 <img src="./images/22-typesOfSoftwareMaintainance.png" style="width:100%;border-radius:25px;" />
 
 ### **Types of Software Maintenance**
+`CAPP`
 
    1. **Corrective Maintenance**
    2. **Adaptive Maintenance**
@@ -27,6 +28,15 @@
 4. **Preventive Maintenance**: It involves making proactive changes to the software to prevent future problems. Activities like code refactoring, performance optimization, and security updates fall under this category.
 
 ### **Reasons for Software Maintenance**
+
+1. **Correcting Defects**
+2. **Enhancing Functionality**
+3. **Improving Performance**
+4. **Adapting to Changing Environments**
+5. **Extending Lifecycle**
+
+--
+
 - **Correcting Defects**: Software maintenance is crucial for fixing bugs or issues missed during development or arising from changes in the system’s environment.
 - **Enhancing Functionality**: Software must evolve with changing user needs. Maintenance allows adding features or modifying existing ones to adapt to these needs.
 - **Improving Performance**: Over time, software may suffer from performance degradation. Maintenance efforts help in optimizing performance and resource utilization.
@@ -52,6 +62,15 @@ These activities are aimed at ensuring the software continues to function effect
 **Software Project Management** is the practice of planning, organizing, and managing software projects. It ensures that the project meets its goals, stays within budget, and is completed on time.
 
 ### **Aspects of Software Project Management**
+`PLET`
+
+1. **Planning**
+2. **Leading**
+3. **Execution**
+4. **Time Management**
+
+--
+
 1. **Planning**: This is the initial phase of project management, where a detailed blueprint of the project is developed. It includes defining scope, resources, timelines, testing, and maintenance strategies.
 2. **Leading**: The project manager leads and coordinates a team of developers, designers, and other stakeholders to ensure the project is on track. Leadership requires excellent communication, interpersonal skills, and decision-making abilities.
 3. **Execution**: This phase involves the actual implementation of the project. It includes monitoring progress, managing resources, and ensuring that each stage of the project is completed successfully.
@@ -64,12 +83,31 @@ These activities are aimed at ensuring the software continues to function effect
 This process defines how software projects are planned, executed, and terminated. It ensures the project meets its objectives efficiently.
 
 ### **Stages**
+`FPET`
+
+1. **Feasibility Study**
+2. **Project Planning**
+3. **Project Execution**
+4. **Project Termination**
+
+--
+
 1. **Feasibility Study**: This stage assesses whether the project is viable from technical, operational, and economic perspectives. The feasibility study helps determine if the project should proceed or not.
 2. **Project Planning**: In this phase, detailed planning occurs, including setting objectives, allocating resources, defining strategies, and developing the project schedule.
 3. **Project Execution**: This phase involves carrying out the planned activities, including design, coding, and testing. It’s where the project’s actual development happens.
 4. **Project Termination**: At this stage, the project concludes either after successful completion or when it is halted due to unmet requirements or constraints.
 
 ### **Phases of Project Management**
+`IP EMC`
+
+1. **Initiation**
+2. **Planning**
+3. **Execution**
+4. **Monitoring and Control**
+5. **Closing**
+
+--
+
 - **Initiation**: Defining the project, its goals, and identifying stakeholders.
 - **Planning**: Defining the scope, objectives, and identifying resources.
 - **Execution**: Implementing tasks, allocating resources, and controlling progress.
@@ -81,6 +119,7 @@ This process defines how software projects are planned, executed, and terminated
 ## **5. Project Size Estimation Techniques**
 
 Estimation techniques are critical for predicting the size, effort, cost, and time required for a software project. They guide decision-making and resource allocation.
+`F BEAT`
 
 1. **Expert Judgment**: Estimation based on the knowledge and experience of experts in the field. This method is useful when there is little historical data or the project is unique.
 2. **Analogous Estimation**: This technique compares the current project with similar completed projects. It’s based on historical data and previous experiences.
@@ -124,6 +163,16 @@ Proposed by **Barry W. Boehm** in 1981.
 **CMM** is a framework to assess and improve software development processes in an organization. It defines five maturity levels that indicate how well the organization manages software development. Developed by the **Software Engineering Institute** (SEI) at **Carnegie Mellon University** in 1987.
 
 ### **Levels of Maturity**
+`IR DMO`
+
+1. **Initial**
+2. **Repeatable**
+3. **Defined**
+4. **Managed**
+5. **Optimizing**
+
+--
+
 1. **Initial**: Processes are unpredictable, and success depends on individual efforts.
 2. **Repeatable**: Project management processes are established, and previous successes can be repeated.
 3. **Defined**: Processes are documented and standardized across the organization.
@@ -177,6 +226,8 @@ ate regression testing into the continuous integration pipeline.
 Proper **documentation** is essential for ensuring that software is maintainable, understandable, and usable. It supports changes, bug fixes, and future enhancements.
 
 ### **Types of Documentation**
+`CRUD`
+
 1. **Requirements Documentation**: Describes the functional and non-functional requirements of the software.
 2. **Design Documentation**: Explains the software’s architecture and modules.
 3. **Code Documentation**: Provides in-code comments to explain the logic behind functions and classes.
