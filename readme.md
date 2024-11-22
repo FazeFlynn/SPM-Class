@@ -428,7 +428,7 @@ CI/CD aims to automate and streamline building, testing, and deploying software 
 4. **Automated Testing**:  
    - Includes unit, integration, and end-to-end tests to catch bugs early.
 
-[CICD](./images/18-CICD.png)
+<img src="./images/18-CICD.png" style="width:100%;border-radius:25px;" />
 
 ### **Advantages**
 1. Faster delivery of features.  
@@ -1138,7 +1138,8 @@ Here are the concise and structured notes for **Unit-3, Lecture 15** on **Introd
      - Combines both white box and black box techniques.  
      - Tests the system with some knowledge of its internals for broader coverage.
 
-[types of software testing](./images/15-typesOfSoftwareTesting.png)
+<img src="./images/15-typesOfSoftwareTesting.png" style="width:100%;border-radius:25px;" />
+
 
 ### **Automation Testing**
 - Uses tools or scripts to execute test cases and validate software.  
@@ -1154,10 +1155,7 @@ Here are the concise and structured notes for **Unit-3, Lecture 15** on **Introd
   9. **Compatibility Testing**: Verifies software works across different environments.  
   10. **Load Testing**: Checks performance under expected user loads.
 
-
-[types of software testing](./images/15-TestingLevels.png)
-
-
+<img src="./images/15-TestingLevels.png" style="width:100%;border-radius:25px;" />
 
 ---
 
@@ -1197,7 +1195,7 @@ Here are the concise and structured notes for **Unit-3, Lecture 15** on **Introd
   - **User Acceptance Testing (UAT)**: End-users test the software to ensure it meets their needs.  
   - **Business Acceptance Testing (BAT)**: Business representatives verify the software meets business requirements.
 
-[testing levels](./images/15-TestingLevels.png)
+<img src="./images/15-TestingLevels.png" style="width:100%;border-radius:25px;" />
 
 
 ## Software Testing Process
@@ -1418,7 +1416,7 @@ down the development process into smaller iterations, where each iteration build
 previous one by adding new functionality or rening existing features. The model allows
 for feedback and adaptation at each iteration, leading to an improved nal product.
 
-[incrementalModel](./images/17-iterativeModel.png)
+<img src="./images/17-iterativeModel.png" style="width:100%;border-radius:25px;" />
 
 
 ### **1. Requirements Gathering and Analysis**  
@@ -1464,9 +1462,7 @@ The V-Model is an extension of the Waterfall Model, focusing on testing at each 
    - Write the code for the software.  
    - **Testing**: Execute unit tests for the implemented code.
 
-[vmodel](./images/17-VModel.png)
-
-
+<img src="./images/17-VModel.png" style="width:100%;border-radius:25px;" />
 
 ---
 
