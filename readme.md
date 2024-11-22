@@ -13,6 +13,14 @@
 <img src="./images/22-typesOfSoftwareMaintainance.png" style="width:100%;border-radius:25px;" />
 
 ### **Types of Software Maintenance**
+
+   1. **Corrective Maintenance**
+   2. **Adaptive Maintenance**
+   3. **Perfective Maintenance**
+   4. **Preventive Maintenance**
+
+--
+
 1. **Corrective Maintenance**: This involves fixing defects or bugs found in the software after deployment. It aims to restore the system to its desired functionality by eliminating issues that may affect its performance or cause unexpected behavior.
 2. **Adaptive Maintenance**: This type focuses on modifying the software to ensure compatibility with new environments such as new operating systems, hardware, or third-party software. It helps the software remain functional in an evolving technological landscape.
 3. **Perfective Maintenance**: This maintenance is focused on improving the software's performance, usability, or maintainability. It often results from user feedback or the need to enhance the system’s capabilities.
@@ -96,7 +104,9 @@ Configuration management ensures the integrity of software products by managing 
 
 ## **7. COCOMO Model**
 
-The **COCOMO Model** is a cost estimation model used to predict the effort, time, and cost involved in a software development project based on its size (measured in Lines of Code - LOC).
+The **COCOMO Model** (Constructive Cost Model) is a regression model for cost estimation that is used to predict the effort, time, and cost involved in a software development project based on its size (measured in Lines of Code - LOC).
+
+Proposed by **Barry W. Boehm** in 1981.
 
 1. **Basic COCOMO**: A simple model for quick estimates based on project size.
 2. **Intermediate COCOMO**: Adds more project attributes for a more refined estimate.
@@ -111,7 +121,7 @@ The **COCOMO Model** is a cost estimation model used to predict the effort, time
 
 ## **8. Capability Maturity Model (CMM)**
 
-**CMM** is a framework to assess and improve software development processes in an organization. It defines five maturity levels that indicate how well the organization manages software development.
+**CMM** is a framework to assess and improve software development processes in an organization. It defines five maturity levels that indicate how well the organization manages software development. Developed by the **Software Engineering Institute** (SEI) at **Carnegie Mellon University** in 1987.
 
 ### **Levels of Maturity**
 1. **Initial**: Processes are unpredictable, and success depends on individual efforts.
@@ -130,7 +140,7 @@ Software **evolution** refers to the continuous development of software to adapt
 
 ## **10. Software Reengineering**
 
-Software **reengineering** involves restructuring existing software to improve its performance, maintainability, and adaptability. It includes activities such as code analysis, reverse engineering, and refactoring.
+Software **reengineering** aka **Software Reverse Engineering** involves restructuring existing software to improve its performance, maintainability, and adaptability. It includes activities such as code analysis, reverse engineering, and refactoring.
 
 ### **Advantages**
 - Improved maintainability
