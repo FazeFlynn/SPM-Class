@@ -1061,7 +1061,7 @@ Software engineering does not only involve technical skills but also carries eth
 
 # Unit 4: Software Maintenance and Management
 
-## Lecture 22
+## Lecture 22: Software Maintenance and Evolution
 
 ## **1. Software Maintenance**
 
@@ -1408,7 +1408,7 @@ Here are the topics that were missed from the original notes:
 
 ---
 
-# Lecture 23: Software Configuration and Project Management
+## Lecture 23: Software Configuration and Project Management
 
 
 ## **1. Software Configuration Management (SCM)**
@@ -1579,7 +1579,7 @@ Risk management identifies, assesses, and mitigates potential risks to ensure pr
 
 
 
-# Lecture 24: Software Requirement Specification (SRS)
+## Lecture 24: Software Requirement Specification (SRS)
 
 
 ## **1. Introduction to Requirements**
@@ -1739,9 +1739,8 @@ Requirement modeling uses visual diagrams to capture and communicate software sy
 ---
 
 
-# Lecture 25: Functional and Non-Functional Requirements
+## Lecture 25: Functional and Non-Functional Requirements
 
----
 
 ## **1. Functional Requirements**
 - **Definition**: These describe the specific functions or capabilities that a system should perform.  
@@ -1822,7 +1821,7 @@ Requirement modeling uses visual diagrams to capture and communicate software sy
 ---
 
 
-# Lecture 26: Software Architecture and Design Patterns
+## Lecture 26: Software Architecture and Design Patterns
 
 
 ## **1. Software Architecture**
@@ -1918,7 +1917,7 @@ The SOLID principles help developers create clean, maintainable, and flexible co
 ---
 
 
-# Lecture 27: Software Architecture and Error Handling
+## Lecture 27: Software Architecture and Error Handling
 
 
 ## **1. Software Architecture**
@@ -2056,7 +2055,7 @@ The application is divided into small, independent services that communicate ove
 
 ---
 
-# Lecture 28: Design Review Checklist Report
+## Lecture 28: Design Review Checklist Report
 
 ## **1. Importance of Design Reviews**
 - **Definition**: Design reviews evaluate architectural and design decisions in software development.  
@@ -2534,7 +2533,7 @@ The V-Model is an extension of the Waterfall Model, focusing on testing at each 
 ---
 
 
-# Lecture 18: Quality Assurance
+## Lecture 18: Quality Assurance
 
 
 ## **1. Software Quality**
