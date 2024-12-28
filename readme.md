@@ -908,17 +908,19 @@ Software metrics can be broadly classified into three categories: **Product Metr
 A **common type of software metric** is the **Defect Density**, which is widely used across various stages of software development and maintenance. It helps assess the quality of the software by tracking the number of defects per unit of code.
 
 **Defect Density**:
-- **Formula**:  
-  \[
-  \text{Defect Density} = \frac{\text{Number of Defects}}{\text{Size of Software (e.g., lines of code)}}
-  \]
+- **Formula**: 
+
+$$
+\text{Defect Density} = \frac{\text{Number of Defects}}{\text{Size of Software (e.g., lines of code)}}
+$$
   
 - **Purpose**: To measure the software's defect rate and identify areas that might require more attention or rework.
   
 - **Example**: If a software product contains 50 defects in 10,000 lines of code, its defect density would be:
-  \[
-  \frac{50}{10000} = 0.005 \text{ defects per line of code}
-  \]
+
+$$
+\frac{50}{10000} = 0.005 \text{ defects per line of code}
+$$
 
 Defect density can help developers assess the quality of the software and prioritize maintenance efforts to address high-density areas first.
 
