@@ -3,7 +3,7 @@
 
 # End Sem
 
-# Unit 5: Softeware Implementation and Deployment
+# Unit 5: Software Implementation and Deployment
 
 ## Lecture 32: Introduction to Software Implementation
 
