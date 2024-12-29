@@ -8,7 +8,12 @@
 
 ## Software Engineering Defination (IEEE)
 
-**Software Engineering (SE)** is the systematic application of engineering principles to the design, development, maintenance, testing, and evaluation of software. It involves both the technical aspects of software development and the management aspects required to ensure software is delivered on time, within budget, and meets the required quality standards.
+"**Software engineering** is the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software."
+
+
+`Software defination (IEEE)`
+
+"**Software** is a collection of computer programs, procedures, rules, and associated documentation and data intended for operation on a computer system to perform a specific task or function."
 
 ---
 
