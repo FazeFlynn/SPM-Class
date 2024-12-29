@@ -1442,9 +1442,6 @@ The V-Model is an extension of the Waterfall Model, focusing on testing at each 
 
 ### **Lecture 8: Software Design and Architecture**
 
-**Software Design and Architecture**  
-**LECTURE 8 NOTES**
-
 ### Introduction  
 Software design principles are fundamental guidelines and concepts that help developers create well-designed, maintainable, and scalable software systems. These principles provide a framework for making architectural and design decisions during software development.
 
@@ -1612,13 +1609,17 @@ Choosing the right architecture is crucial for ensuring that software systems ar
 
 
 
+$$
+\Large \text{Imp topics ends}
+$$
 
 
 
+---
+---
 
 
-
-# `Lecture notes`
+# `Other Lecture notes`
 
 # Unit 5: Software Implementation and Deployment
 
