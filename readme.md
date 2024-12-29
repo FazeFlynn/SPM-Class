@@ -24,6 +24,9 @@
 **System Testing** is the process of testing the entire system as a whole to ensure it meets the specified requirements. It involves verifying both functional and non-functional aspects of the system, including performance, security, and usability.
 
 **System Testing Process**:
+
+`RPC EMC`
+
 1. **Requirement Analysis**: Understand the system’s functional and non-functional requirements to prepare test scenarios.
 2. **Test Planning**: Create a test plan that includes scope, resources, timelines, and testing criteria.
 3. **Test Case Design**: Develop test cases based on the requirements.
@@ -48,6 +51,9 @@
 **Test Design Techniques** are methods used to create effective test cases that ensure maximum test coverage and identify defects early in the system.
 
 **Common Test Design Techniques**:
+
+`BGWAE`
+
 1. **Black-box Testing**:
    - Focuses on the inputs and outputs without considering internal logic.
    - Common techniques: Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing.
@@ -110,6 +116,9 @@
 Software maintenance metrics help measure the effectiveness, efficiency, and quality of software maintenance activities. These metrics provide insights into how well maintenance processes are performing and how improvements can be made.
 
 **Types of Software Maintenance Metrics**:
+
+`DEC PQ`
+
 - **Defect Metrics**: These metrics track the number and severity of defects identified during maintenance. They can help identify areas that require improvement.
   - **Defect Density**: The number of defects found per unit of software size (e.g., per thousand lines of code).
   - **Defect Removal Efficiency**: The ratio of defects removed during maintenance to total defects introduced or found.
@@ -155,6 +164,8 @@ Software maintenance metrics help measure the effectiveness, efficiency, and qua
 
 Software metrics can be broadly classified into three categories: **Product Metrics**, **Process Metrics**, and **Project Metrics**.
 
+`PPP`
+
 - **Product Metrics**:
   - Focus on the characteristics and quality of the software product.
   - Examples: **Defect Density**, **Code Complexity**, **Performance Metrics**.
@@ -168,6 +179,9 @@ Software metrics can be broadly classified into three categories: **Product Metr
   - Examples: **Cost per Feature**, **Schedule Variance**, **Team Velocity**.
 
 **Additional Classification**:
+
+`SCM`
+
 - **Size Metrics**: Measure the size of the software system (e.g., lines of code, function points).
 - **Complexity Metrics**: Measure the complexity of the software (e.g., cyclomatic complexity, function complexity).
 - **Maintenance-specific Metrics**: Metrics specific to software maintenance activities (e.g., MTTR, cost per defect).
