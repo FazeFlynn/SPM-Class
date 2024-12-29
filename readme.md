@@ -1696,24 +1696,36 @@ In software project management, **cohesion** and **coupling** are important conc
 ### 1. **Cohesion:**
 Cohesion refers to the degree to which the elements within a single module or component of a system are related to each other. It measures the internal consistency of a module or class.
 
-   - **Goal:** High cohesion is desirable. A highly cohesive module is focused on a specific task or responsibility and contains elements that are tightly related to one another.
-   - **Characteristics of High Cohesion:**
-     - A module or class with high cohesion performs a specific, well-defined task.
-     - The internal components of the module or class are strongly related, minimizing the risk of unnecessary complexity.
-     - Easier to maintain and test, as changes are usually localized to the cohesive module.
-     - More reusable, because a highly cohesive module is more likely to be applicable in different contexts.
-   - **Example:** A class responsible for processing customer orders, which includes methods like `addOrder()`, `processPayment()`, and `generateInvoice()`, is highly cohesive because all methods are related to the single responsibility of handling an order.
+- **Goal:** High cohesion is desirable. A highly cohesive module is focused on a specific task or responsibility and contains elements that are tightly related to one another.
+- **Characteristics of High Cohesion:**
+  - A module or class with high cohesion performs a specific, well-defined task.
+  - The internal components of the module or class are strongly related, minimizing the risk of unnecessary complexity.
+  - Easier to maintain and test, as changes are usually localized to the cohesive module.
+  - More reusable, because a highly cohesive module is more likely to be applicable in different contexts.
+- **Example:** A class responsible for processing customer orders, which includes methods like `addOrder()`, `processPayment()`, and `generateInvoice()`, is highly cohesive because all methods are related to the single responsibility of handling an order.
 
 ### 2. **Coupling:**
 
 Coupling refers to the degree to which one module or component depends on or is connected to another module or component. It measures how interdependent different modules are.
 
-   - **Goal:** Low coupling is desirable. Low coupling means that modules are independent of each other and can be modified without significantly affecting other modules.
-   - **Characteristics of Low Coupling:**
-     - A system with low coupling means that changes made to one module do not ripple across the entire system.
-     - Easier to understand and maintain, since each module has minimal dependencies on other parts of the system.
-     - More flexible and adaptable, as modules can be updated, replaced, or reused without a lot of rework.
-   - **Example:** A module that communicates with a database via a well-defined interface, rather than directly interacting with the database implementation, demonstrates low coupling with the database module. If the database changes, the impact on the module is minimal.
+- **Goal:** Low coupling is desirable. Low coupling means that modules are independent of each other and can be modified without significantly affecting other modules.
+- **Characteristics of Low Coupling:**
+  - A system with low coupling means that changes made to one module do not ripple across the entire system.
+  - Easier to understand and maintain, since each module has minimal dependencies on other parts of the system.
+  - More flexible and adaptable, as modules can be updated, replaced, or reused without a lot of rework.
+- **Example:** A module that communicates with a database via a well-defined interface, rather than directly interacting with the database implementation, demonstrates low coupling with the database module. If the database changes, the impact on the module is minimal.
+
+**Types of Coupling:**
+
+`NCC DESC`
+
+- **No Direct Coupling:** Modules are independent.
+- **Data Coupling:** Modules depend on each other by passing data.
+- **Stamp Coupling:** Sharing a composite data structure between modules.
+- **Control Coupling:** One module controls the execution of another.
+- **External Coupling:** Dependency on external systems or resources.
+- **Common Coupling:** Shared global resources between modules.
+- **Content Coupling:** Direct dependence on another module's data or implementation.
 
 ### Relationship Between Cohesion and Coupling:
 
