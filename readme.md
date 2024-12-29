@@ -1618,7 +1618,7 @@ Choosing the right architecture is crucial for ensuring that software systems ar
 
 
 
-
+# `Lecture notes`
 
 # Unit 5: Software Implementation and Deployment
 
