@@ -1691,8 +1691,6 @@ Choosing the right architecture is crucial for ensuring that software systems ar
 
 ## Cohesion and Coupling
 
-In software project management, **cohesion** and **coupling** are important concepts related to how components or modules of a system interact with each other and how they are designed to work. While they are related to software design and architecture.
-
 ### 1. **Cohesion:**
 Cohesion refers to the degree to which the elements within a single module or component of a system are related to each other. It measures the internal consistency of a module or class.
 
